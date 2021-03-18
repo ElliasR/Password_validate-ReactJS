@@ -1,4 +1,5 @@
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+#https://medium.com/@steven_creates/creating-a-custom-react-hook-for-password-validation-46fc421c16ee
 
 # dependencies
 /node_modules
